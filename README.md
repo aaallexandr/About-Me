@@ -9,7 +9,12 @@ I'm currently looking for a job as a data analyst.
 ### Skills 
                     
 ### Contact me
-![Static Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100031297215038)
+
+<div id="badges" align="left">
+<a href="https://www.facebook.com/profile.php?id=100031297215038">
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&link=https%3A%2F%2"/>
+
+
 
 
 ### Certificates

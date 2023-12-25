@@ -2,7 +2,7 @@
 I'm currently looking for a job as a data analyst.
 
 *   🌍  I'm based in Belgrade, Serbia
-*   💼 **For 5 years** I have worked in advertising agencies for different clients
+*   💼  I have been working in advertising **for 5 years** 
 *   🎓 Graduated from Yandex Praktikum as a data analyst
 *   🖥️  See my portfolio [here](http://https://github.com/aaallexandr/My-Projects)
   

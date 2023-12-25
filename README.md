@@ -30,3 +30,10 @@ I'm currently looking for a job as a data analyst.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a></p>
+
+### Certificates
+
+[<img width="400" alt="image" src="https://github.com/aaallexandr/About-Me/assets/126966529/3363a4f3-48d4-4a8a-a434-26c38b158995">](https://drive.google.com/file/d/18mDR9cHZLDsEKo2zzXvPCzEegvs_z0bi/view?usp=sharing)
+
+
+

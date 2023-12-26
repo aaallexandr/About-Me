@@ -5,7 +5,7 @@ I'm currently looking for a job as a data analyst.
 *   💼  I have been working as digital meida planner in advertising **for 5 years** 
 *   🎓  Graduated from Yandex Practicum as a data analyst
 *   🤌 I speak Russian and English
-*   🖥️  See my projects [here](http://https://github.com/aaallexandr/My-Projects)
+*   🖥️  See my projects [here]([http://https://github.com/aaallexandr/My-Projects](https://github.com/aaallexandr/My-Projects)
   
 ### Languages and Tools 
 

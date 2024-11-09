@@ -37,7 +37,9 @@ I'm a aspiring Data Analyst ready to bring insights and analytical skills to a y
 
 ### Certificates
 
-[<img width="300" alt="image" src="https://github.com/aaallexandr/About-Me/assets/126966529/3363a4f3-48d4-4a8a-a434-26c38b158995">](https://drive.google.com/file/d/18mDR9cHZLDsEKo2zzXvPCzEegvs_z0bi/view?usp=sharing) [<img width="300" alt="image" src="https://github.com/aaallexandr/aaallexandr/assets/126966529/6a1efe0e-4c12-49b9-876a-15aec8c3fc27">](https://stepik.org/cert/1501070?lang=en)[<img width="300" alt="image" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/103749573">](https://skillshop.credential.net/0a82e054-8fa9-41bf-93fb-2a01feb0c119#gs.9dmy0rhttps://skillshop.credential.net/0a82e054-8fa9-41bf-93fb-2a01feb0c119#gs.9dmy0r)
+[<img width="200" alt="image" src="https://github.com/aaallexandr/About-Me/assets/126966529/3363a4f3-48d4-4a8a-a434-26c38b158995">](https://drive.google.com/file/d/18mDR9cHZLDsEKo2zzXvPCzEegvs_z0bi/view?usp=sharing) 
+[<img width="200" alt="image" src="https://github.com/aaallexandr/aaallexandr/assets/126966529/6a1efe0e-4c12-49b9-876a-15aec8c3fc27">](https://stepik.org/cert/1501070?lang=en)
+[<img width="200" alt="image" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/103749573">](https://skillshop.credential.net/0a82e054-8fa9-41bf-93fb-2a01feb0c119#gs.9dmy0rhttps://skillshop.credential.net/0a82e054-8fa9-41bf-93fb-2a01feb0c119#gs.9dmy0r)
 
 
 

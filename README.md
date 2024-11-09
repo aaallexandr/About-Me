@@ -3,7 +3,8 @@ I'm a aspiring Data Analyst ready to bring insights and analytical skills to a y
 
 * 🎓 Completed a **Data Analysis course at Yandex Practicum** in 2022
 * 💼 Currently working as a **Digital Marketing Manager**, where I apply data analysis skills to optimize campaigns and generate insights
-* 📈 With **5+ years** of experience in digital marketing, and several freelance data analysis projects under my belt, I'm ready to transition into a full-time data analyst role
+* 📈 With **5+ years of digital marketing experience** and a proven track record of freelance data analysis projects, I’m excited to bring my analytical expertise into a e data analyst role
+
 
 * 🌍 Based in **Belgrade, Serbia**
 * 🗣️ Native in Russian and fluent in English

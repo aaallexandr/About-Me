@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Aleksander
-I'm a aspiring Data Analyst ready to bring insights and analytical skills to a your team.
+I'm an aspiring Data Analyst ready to bring insights and analytical skills to a your team.
 
 * 🎓 Completed a **Data Analysis course at Yandex Practicum** in 2022
 * 💼 Currently working as a **Digital Marketing Manager**, where I apply data analysis skills to optimize campaigns and generate insights
